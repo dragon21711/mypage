@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">
+    <title></title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+
+</head>
+
+<body>
+    <div id="header">
+        <div class="container">
+            <h1></h1>
+            <nav>
+                <ul>
+                    <li><a href="./index.html">Top</a></li>
+                    <li><a href="https://infiniteflight.com/timeline">infinite flight</a></li>
+                    <li><a href="https://www.google.com/?hl=ja/">Google</a></li>
+                    <li><a href="https://www.facebook.com/">Fecebook</a></li>
+                    <li><a href="https://www.facebook.com/messages/t/2669976236355771">Messengr</a></li>
+                
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <!--    <div class="main-visual"></div>-->
+　　<div class="main-visual"></div>
+    <div class="container">
+        <div id="main">
+            <div class="content" id="contents1">
+                <h1 class="top-title">日頃</h1>
+
+                <img src="" alt="" Width="300">
+                <div class="right-box">
+
+                    <h2>日頃の生活</h2>
+                    <div class="video">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/uCJPDpANeiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <h3>日常のことです。</h3>
+                    <p>YouTubeを見たり、ゲームしたり音楽を聞いたりしています。<br>
+                        他にもいろんなことに挑戦をしています。例に挙げますとオペラや合唱やその他…<br>
+                        これからもいろんなことを学びたいと思っています。<br>
+                    </p>
+
+                </div>
+            </div>
+
+
+
+            <div class="content" id="contents2">
+                <h1 class="top-title">曲</h1>
+                <div class="left-box">
+                    <h2>好きな曲</h2>
+                    <h3>ドイツレクイエム</h3>
+                    <div class="video">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/Zerkl2EAqqY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <p>この曲は、2020年11月の発表会で歌う曲です。
+                        曲は、お葬式の曲ですが、すごく綺麗な曲です。<br>
+                    　　　　<br>
+                        </p>
+                        <h2></h2>
+                        <h3></h3>
+                        <h4></h4>
+                    </div>
+                    <img src="" alt="" Width="300">
+                </div>
+                </div>
+
+                <div class="content" id="contents4">
+                    <h1 class="top-title">カメラ</h1>
+                    <img src="IMG_0177のコピー.JPG" alt="" Width="500">
+                    <div class="right-box">
+                         <div class="video">
+                        <h2>写真を撮る</h2>
+                        <p>この写真は、例の写真ですが、自分で撮りました。<br>
+                            夜景などの風景の写真を撮ることが好きです。<br>
+
+                            <br>
+                            <br>
+
+
+
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="content" id="contents4">
+                    <h1 class="top-title">ぬいぐるみ</h1>
+                    <img src="epoc.jpg" alt="" Width="500">
+                    <div class="right-box">
+                         <div class="video">
+                        <h2>お供のエポック</h2>
+                        <p>このぬいぐるみは、オックスフォードキャンプで買ったぬいぐるみです。<br>
+                            他にもたくさんぬいぐるみを持っています。<br>見ていいなと思ったぬいぐるみをすぐに買ってしまうので今は、買わないように気をつけたいです。<br>
+                            <br>
+                            <br>
+                            </p>
+                    </div>
+                </div>
+            </div>
